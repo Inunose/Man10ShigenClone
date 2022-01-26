@@ -1,0 +1,4 @@
+name: Man10ShigenClone
+version: '${project.version}'
+main: com.inunose.man10shigenclone.Man10ShigenClone
+api-version: 1.17
